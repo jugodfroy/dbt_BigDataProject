@@ -5,6 +5,9 @@
 name: 'YoutubeBigData'
 version: '1.0.0'
 config-version: 2
+target-path: ../build
+log-path: ../logs
+packages-install-path: ../dbt
 
 # This setting configures which "profile" dbt uses for this project.
 profile: 'YoutubeBigData'
