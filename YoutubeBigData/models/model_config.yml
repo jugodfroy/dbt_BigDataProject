@@ -21,7 +21,7 @@ models:
       - name: video_id
         description: "Unique id of the video"
       - name: channel_rank
-        description: "YouTube channel ranking in the TOP 200"
+        description: "YouTube channel ranking in the TOP 100"
       - name: channel_name
         description: "Name of the YouTube channel"
       - name: channel_link

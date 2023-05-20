@@ -29,10 +29,10 @@ sources:
 
       - name: landing_channels_ranking
         description: >
-          Data on the TOP 200 French YouTube channels ranked by the subscribers (DESC)
+          Data on the TOP 100 French YouTube channels ranked by the subscribers (DESC)
         columns:
           - name: rank
-            description: youtube channel ranking in the TOP 200
+            description: youtube channel ranking in the TOP 100
           - name: channel_name
             description: name of the youtube channel
           - name: channel_link
